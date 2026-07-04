@@ -1,0 +1,9 @@
+#creating a ros2 node in cpp
+go to the ros2ws src and cppdirectory using the vscode by below command 
+cd ros_ws/src/my_cpp_pkg
+after that go inside the src inside the directory 
+inside that create a file using my_first_node.cpp
+we can create all the cpp files inside this cpp directory and src
+after creating th file in vs code inside that go to my firstcpp
+inside that #include the rclcpp/rclcpp.hpp
+create a main function inside the file
