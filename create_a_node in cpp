@@ -60,4 +60,4 @@ int main(int argc, char *argv[])
 }
 ```
 
-The `main()` function is where the execution of the ROS 2 node begins. In the following steps, you'll initialize ROS 2, create a node, spin the node to process callbacks, and finally shut down ROS 2.
+The `main()` function is where the execution of the ROS 2 node begins. In the following steps, you'll initialize ROS 2 create a node, spin the node to process callbacks, and finally shut down ROS 2.
